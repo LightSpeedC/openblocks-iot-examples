@@ -1,2 +1,2 @@
-heroku git push heroku master
+call heroku git push heroku master
 @pause
