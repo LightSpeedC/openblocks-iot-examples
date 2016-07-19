@@ -1,0 +1,23 @@
+{
+  "name": "openblocks-iot-examples",
+  "version": "0.0.0",
+  "description": "openblocks iot examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightSpeedC/openblocks-iot-examples.git"
+  },
+  "keywords": [
+    "openblocks",
+    "iot"
+  ],
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LightSpeedC/openblocks-iot-examples/issues"
+  },
+  "homepage": "https://github.com/LightSpeedC/openblocks-iot-examples#readme"
+}
